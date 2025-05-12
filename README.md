@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Gnanendra</h1>
+<h1 align="center">Hello! I'm Gnanendra Bollam</h1>
 
 ## About Me
 
