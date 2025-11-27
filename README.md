@@ -6,7 +6,7 @@ Began with creating apps in MERN, but got sucked into the adrenaline of destroyi
 
 ---
 
-- 📫 **How to reach me**: jnanendrabollam2222@gmail.com  
+- 📫 **How to reach me**: gnanendrabollam@gmail.com  
 - ⚡ **Fun Fact**: I debug code faster than I solved Kirchhoff’s laws
 
 
